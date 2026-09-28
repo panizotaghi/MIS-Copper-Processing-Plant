@@ -1,0 +1,21 @@
+UnitID,UnitName,UnitType,CapacityTonsPerHour,EfficiencyPercent,MachineCount
+1,Concentrator 1,Flotation,625,64,3
+2,Concentrator 2,Flotation,450,72,3
+3,Molybdenum Plant,Flotation,638,67,2
+4,Primary Mill,Comminution,454,79,4
+5,Coarse Ore Stockpile,Storage,8000,60,2
+6,Conveyor 2,Material Handling,500,80,3
+7,Conveyor 9,Material Handling,300,55,2
+8,Fines Warehouse,Storage,4000,75,2
+9,Concentrator 1 Primary Mill,Comminution,250,72,3
+10,Concentrator 1 Rougher,Flotation,150,54,4
+11,Concentrator 1 Final Tailings,Waste Disposal,550,52,3
+12,Concentrator 2 - Phase 1,Flotation,300,66,3
+13,Concentrator 2 - Phase 2,Flotation,150,51,2
+14,Molybdenum Rougher,Flotation,8,79,3
+15,Molybdenum Cleaner,Flotation,4,70,2
+16,Molybdenum Bagging (BF),Packaging,2,74,2
+17,Conveyor 20,Final Conveying,80,71,2
+18,Filter Press,Dewatering,150,53,4
+19,Final Dryer,Final Dewatering,80,63,2
+20,Conveyor 20 Weighbridge,Weight Control,80,52,2
