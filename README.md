@@ -2,10 +2,11 @@
 
 An end-to-end **Management Information System (MIS)** project for a copper extraction and processing plant, built in four phases: from selecting and defining key business processes, to **BPMN 2.0** process models, a relational **SQL Server** database with analytical queries, and an interactive **Power BI** dashboard with KPIs.
 
-- **Course:** Management Information Systems (MIS)
 - **Instructor:** Dr. Hadi Mosadegh
-- **Term:** Spring 2025
+- **Course:** Management Information Systems (MIS)
+- **Department:** Industrial Engineering, Amirkabir University of Technology (Tehran Polytechnic)
 - **Author:** Paniz Otaghi
+- **Term:** Spring 2025
 
 All data in this project is synthetic and was generated for the course.
 
